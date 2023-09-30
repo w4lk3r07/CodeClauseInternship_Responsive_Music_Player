@@ -5,7 +5,15 @@ How to run:
 
 2: After that, just open the index.html file in any web browser and you can access the basic responsive music player app.
 
+
+Make sure to put all the files in the same folder otherwise you will not be able to access the project properly
+
+
 Use VS Code IDE for easy accessing of code and editing of the code.
+
+
+All the images and songs in the project are in the respective folders. We can access or change them in the folders.
+
 
 Front End: HTML5 & CSS
 Back End: JavaScript
